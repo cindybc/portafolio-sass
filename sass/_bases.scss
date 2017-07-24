@@ -1,0 +1,42 @@
+
+
+.trans{
+	transition: all 1s ease;
+}
+
+.cambioNav{
+	background-color: #FFF !important;
+	ul a{
+		color: red;
+	}
+}
+
+body{
+	background-color: green;
+}
+
+#slide2{
+    background-image: url(../img/img_slider_2.jpg);
+}
+
+#slide1{
+    background-image: url(../img/img_slider_1.jpg);
+}
+
+ .valor{
+	color: #FFF;
+	font-size: 4em;
+	margin: 10px;
+}
+
+sup{
+   top: -15px;
+   font-size: 20px;
+}
+
+sub{
+	font-size: 20px;
+}
+.eleventh{
+	background-image: url(../img/img_city.jpg);
+}
